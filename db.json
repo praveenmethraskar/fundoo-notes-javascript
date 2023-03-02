@@ -1,0 +1,199 @@
+{
+  "users": [
+    {
+      "first_name": "praveen",
+      "last_name": "methraskar",
+      "email": "praveenmethraskar@gmail.com",
+      "newpassword": "Praveen24",
+      "confirmpassword": "Praveen24",
+      "id": 1
+    },
+    {
+      "first_name": "srikanth",
+      "last_name": "goud",
+      "email": "srikanthgoud@gmail.com",
+      "newpassword": "srikanth",
+      "confirmpassword": "srikanth",
+      "id": 2
+    },
+    {
+      "first_name": "vinay",
+      "last_name": "thota",
+      "email": "vinaykumar@gmail.com",
+      "newpassword": "Vinay123",
+      "confirmpassword": "Vinay123",
+      "id": 3
+    },
+    {
+      "first_name": "pramod",
+      "last_name": "methraskar",
+      "email": "pramodmethraskar@gmail.com",
+      "newpassword": "Pramod27",
+      "confirmpassword": "Pramod27",
+      "id": 4
+    },
+    {
+      "first_name": "sai",
+      "last_name": "maduri",
+      "email": "sai@gmail.com",
+      "newpassword": "sai@123",
+      "confirmpassword": "sai@123",
+      "id": 5
+    },
+    {
+      "first_name": "uday",
+      "last_name": "thota",
+      "email": "uday@gmail.com",
+      "newpassword": "uday@123",
+      "confirmpassword": "uday@123",
+      "id": 6
+    },
+    {
+      "first_name": "rajesh",
+      "last_name": "alam",
+      "email": "rajesh@gmail.com",
+      "newpassword": "rajesh@123",
+      "confirmpassword": "rajesh@123",
+      "id": 7
+    },
+    {
+      "first_name": "rahul",
+      "last_name": "gaddam",
+      "email": "rahulgaddam@gmail.com",
+      "newpassword": "rahul@123",
+      "confirmpassword": "rahul@123",
+      "id": 8
+    },
+    {
+      "first_name": "pranay",
+      "last_name": "kumar",
+      "email": "pranaykumar@gmail.com",
+      "newpassword": "pranay@123",
+      "confirmpassword": "pranay@123",
+      "id": 9
+    },
+    {
+      "first_name": "rajesh",
+      "last_name": "alam",
+      "email": "rajesh@gmail.com",
+      "newpassword": "rajesh@123",
+      "confirmpassword": "rajesh@123",
+      "id": 10
+    }
+  ],
+  "note": [
+    {
+      "title": "archieve data",
+      "discription": "displayed in archieve",
+      "archieve": "true",
+      "trash": "false",
+      "color": "yellow",
+      "id": 1
+    },
+    {
+      "title": "note data ",
+      "discription": "displayed note",
+      "archieve": "false",
+      "trash": "false",
+      "color": "yellow",
+      "id": 2,
+      "pin": "false"
+    },
+    {
+      "title": "archieve data 2",
+      "discription": "displayed archieve",
+      "archieve": "true",
+      "trash": "false",
+      "color": "blue",
+      "id": 4
+    },
+    {
+      "title": "book",
+      "discription": "lib",
+      "archieve": "false",
+      "trash": "true",
+      "color": "red",
+      "id": 5
+    },
+    {
+      "title": "mahabarata",
+      "discription": "krishna",
+      "archieve": "false",
+      "trash": "true",
+      "color": "yellow",
+      "id": 6
+    },
+    {
+      "title": "ramayana",
+      "discription": "ram",
+      "archieve": "false",
+      "trash": "false",
+      "color": "white",
+      "id": 7,
+      "pin": "false"
+    },
+    {
+      "title": "new ",
+      "discription": "new note",
+      "archieve": "false",
+      "trash": "false",
+      "color": "white",
+      "id": 8,
+      "pin": "false"
+    },
+    {
+      "title": "fd",
+      "discription": "fad",
+      "archieve": "false",
+      "trash": "false",
+      "color": "white",
+      "pin": "false",
+      "id": 9
+    },
+    {
+      "title": "dsf",
+      "discription": "ffs",
+      "archieve": "false",
+      "trash": "false",
+      "color": "white",
+      "pin": "false",
+      "id": 10
+    },
+    {
+      "title": "jk",
+      "discription": "fas",
+      "archieve": "false",
+      "trash": "false",
+      "color": "blue",
+      "pin": "false",
+      "id": 11
+    },
+    {
+      "title": "fa",
+      "discription": "fas",
+      "archieve": "false",
+      "trash": "false",
+      "color": "white",
+      "pin": "false",
+      "id": 12
+    },
+    {
+      "title": "fa",
+      "discription": "fas",
+      "archieve": "false",
+      "trash": "false",
+      "color": "white",
+      "pin": "false",
+      "id": 13
+    },
+    {
+      "title": "snew",
+      "discription": "sdfe",
+      "archieve": "false",
+      "trash": "true",
+      "color": "white",
+      "pin": "false",
+      "id": 14
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="css/login.css">
+
+</head>
+<body>
+    <form class="form">
+        <div class="container">
+       
+            <div class="form-container">
+                <div id="email-box">
+                    <div class="form-header">
+                        <img id="logo"
+                            src="https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/evolving_google_identity_share.jpg"
+                            alt="">
+                        <h2>Sign In</h2>
+                        <h4>Continue To Gmail</h4>
+                    </div>
+                    <div class="form-group">
+                        <input type="text input" id="email" required>
+                        <label class="form-control-placeholder" for="name">Email or phone</label>
+                    </div>
+                    <br />
+                    <div class="form-group">
+                        <input type="password" id="password" required>
+                        <label class="form-control-placeholder" id="password-label" for="name" >Enter Your Password</label>
+                        <i class="fa fa-eye-slash" id="eye-icon"></i>
+                    </div>
+                    <div class="form-link">
+                        <label><a href="">Forgot Email?</a></label>
+                    </div>
+                    <br />
+                    <br />
+                    <div class="form-link">
+                        <label>Not your computer? Use Guest mode to sign in privately.</label>
+                        <label><a href="">Learn More</a></label>
+                    </div>
+                    <br />
+                    <br />
+                    <div class="form-link">
+                        <label><a href="registration.html">Create Account</a></label>
+                        <button class="btn" id="login" onclick="check();return false;">Next</button>
+                    </div>
+                </div>
+    
+            </div>
+        
+        </div>
+    </form>
+
+    
+    <script src="js/login.js"></script>
+</body>
+</html>
